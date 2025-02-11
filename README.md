@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Siddhesh Dhainje</h1>
-<h3 align="center">I'm Andrid & MERN Stack Developer, have completed my Bachelor's Degree in Information Technology from Pune Institute of Computer Technology. I'm interested in developing Web as well as Android Applications which could be helpful in solving real-life problems and beneficial for the mankind. My other interests include books reading & playing games</h3>
+<h3 align="center">I'm Android & MERN Stack Developer, have completed my Bachelor's Degree in Information Technology from Pune Institute of Computer Technology. I'm interested in developing Web as well as Android Applications which could be helpful in solving real-life problems and beneficial for the mankind. My other interests include books reading & playing games</h3>
 
 <br>
 <h2 align="center">Get in Touch</h2>
